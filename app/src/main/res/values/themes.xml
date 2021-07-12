@@ -1,0 +1,6 @@
+<resources>
+
+    <style name="Theme.PasswordManager" parent="Theme.MaterialComponents.DayNight">
+        <item name="colorButtonNormal">#808080</item>
+    </style>
+</resources>
